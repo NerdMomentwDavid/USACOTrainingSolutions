@@ -1,5 +1,5 @@
 /*
-ID: davidwa11
+ID:
 TASK: numtri
 LANG: C++
 */
