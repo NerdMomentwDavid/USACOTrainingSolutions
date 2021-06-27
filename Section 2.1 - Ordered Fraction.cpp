@@ -1,5 +1,5 @@
 /*
-ID: davidwa11
+ID:
 TASK: frac1
 LANG: C++14
 */
