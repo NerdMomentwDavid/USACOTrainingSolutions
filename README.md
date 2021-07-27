@@ -1,5 +1,5 @@
 # USACOTrainingSolutions
-C++ solutions to USACO training site
+C++ solutions to USACO training site https://train.usaco.org/
 
 (I hope people actually read this...)
 
