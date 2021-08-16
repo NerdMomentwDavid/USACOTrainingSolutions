@@ -1,5 +1,5 @@
 /*
-ID: davidwa11
+ID:
 TASK: theme
 LANG: C++14
 */
@@ -24,28 +24,10 @@ int main() {
     
     int st = 40;
     
-    /*for (int i = st; i <= n; i++) {
-        cout << i << "  ";
-        if (i < 10) cout << " ";
-    }
-    cout << "\n";
-    for (int i = st; i <= n; i++) {
-        cout << a[i] << "  ";
-        if (a[i] < 10) cout << " ";
-    }
-    cout << "\n";*/
-    
     dif[1] = 99;
     for (int i = 1; i <= n; i++) {
         dif[i] = a[i]-a[i-1];
     }
-    
-    /*for (int i = st; i <= n; i++) {
-        if (i > st && dif[i] >= 0) cout << " ";
-        cout << dif[i] << " ";
-        if (abs(dif[i]) < 10) cout << " ";
-    }
-    cout << "\n";*/
     
     int m = 0;
     for (int i = 1; i <= n; i++) {
